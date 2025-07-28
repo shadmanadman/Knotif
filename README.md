@@ -9,7 +9,7 @@
 ### Adding dependencies
 - Add it in your `commonMain.dependencies` :
   ```
-  implementation("io.github.shadmanadman:knotif:0.67.0")
+  implementation("io.github.shadmanadman:knotif:0.68.0")
   ```
   
 ### Message notification
